@@ -13,5 +13,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ErikXu/.NetCore-Spring-Clould
+          uri: https://github.com/OuYangXiaoZe/helloworld
           searchPaths: Configs
